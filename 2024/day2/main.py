@@ -45,7 +45,6 @@ def is_safe(nums: List[int]) -> bool:
     
 
 
-
 if __name__ == "__main__":
     input = "input.txt"
     print(check_levels(input))
