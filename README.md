@@ -6,4 +6,4 @@ Repo for solutions to advent of code
 
 Day 1: :star::star:\
 Day 2: :star:\
-Day 3: :star:\
+Day 3: :star:
